@@ -72,7 +72,7 @@ function _draw()
       spr(obj.sprite, obj.position.x, obj.position.y)
  end)
  
- print('press z to shoot', 0, 0, 7) 
+ print('press z to shoot', 60, 110, 0) 
 
 end
 -->8
